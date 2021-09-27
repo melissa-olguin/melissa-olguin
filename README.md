@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Melissa Olguin Full Stack Enginner  [website]
 
-[![Website](https://img.shields.io/website?color=#2590762&logo=star&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
+[![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
 
 
 - 🔭 I currently working at BDS Solutions but always looking for better opportunities where I can grow my skills 
