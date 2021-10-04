@@ -29,17 +29,15 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="melissaolguin.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<i class="fas fa-envelope"/>[email]
-<ul class="icons">
-				<li><span title="Email"><a href="#footer" class="icon fa fa-envelope"></span></a></li>
-				<li><span title="Resume"><a href="https://docs.google.com/document/d/15yEsC6B-zWqriYRn0D_kaqk51d-FFytA/"
-							class="icon solid fa-file"></a></li>
-				<li><span title="Linkedin"><a href="https://www.linkedin.com/in/melissa-olguin-50b86819a/"
-							class="icon brands fa-linkedin"></span></span></a></li>
-				<li><span title="GitHub"><a href="https://github.com/melissa-olguin"
-							class="icon brands fa-github"></span></a></li>
 
-			</ul>
+				<a href="#footer" class="icon fa fa-envelope">
+				<a href="https://docs.google.com/document/d/15yEsC6B-zWqriYRn0D_kaqk51d-FFytA/"
+							class="icon solid fa-file"></a>
+				<a href="https://www.linkedin.com/in/melissa-olguin-50b86819a/"
+				   class="icon brands fa-linkedin"></a>
+				<a href="https://github.com/melissa-olguin"class="icon brands fa-github"></a>
+
+			
 
 
 ### Some of My Languages and Tools:
