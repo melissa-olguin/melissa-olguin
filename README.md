@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="melissaolguin.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<a href="mailto:melissa.olguin25@gmail.com?&subject=Just%20saw%20your%20portfolio" class="icon fa fa-envelope"/>]
-
-			
+[<img align="left" alt="melissaolguin.ml" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope.svg" />][email]
 
 
 ### Some of My Languages and Tools:
