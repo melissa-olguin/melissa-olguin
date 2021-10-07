@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I currently working at BDS Solutions but always looking for better opportunities where I can grow my skills 
-- 🌱 I’m currently learning Data Science and Machine Learning Algorithms 
+- 🌱 I’m currently learning Data Science and Machine Learning 
 - ⚡ Fun fact: I love to draw and play flute / piano
 - 👯 Part of Developer Community.
 
