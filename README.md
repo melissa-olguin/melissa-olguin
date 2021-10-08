@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
 
-
 - 🔭 I currently working at BDS Solutions but always looking for better opportunities where I can grow my skills 
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - ⚡ Fun fact: I love to draw and play flute / piano
