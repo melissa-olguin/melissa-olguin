@@ -5,6 +5,9 @@
 
 theme change 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+will try to keep a streek going in 2022 
+and work on project for seminar
+work on email get it done this week 
 
 Here are some ideas to get you started:
 
