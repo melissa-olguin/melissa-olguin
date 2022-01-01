@@ -9,6 +9,7 @@ will try to keep a streek going in 2022
 and work on project for seminar
 work on email get it done this week 
 short ai helped rought draft
+helped edgar with scholarships 
 
 Here are some ideas to get you started:
 
