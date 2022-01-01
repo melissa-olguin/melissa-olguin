@@ -10,6 +10,7 @@ and work on project for seminar
 work on email get it done this week 
 short ai helped rought draft
 helped edgar with scholarships 
+youtube?
 
 Here are some ideas to get you started:
 
