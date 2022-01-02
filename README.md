@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm ✨ Melissa Olguin ✨ Full Stack Enginner  
+### I'm ✨ Melissa Olguin ✨ Full Stack Developer  
 
 [![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
 
