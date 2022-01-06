@@ -11,6 +11,11 @@ work on email get it done this week
 short ai helped rought draft
 helped edgar with scholarships 
 youtube? starts with 3 channels 
+channels blue I want to start ml and data science and everything start up and innovation 
+yellow art philosophy emotions imaginations 
+red psychology mental health 
+
+
 
 Here are some ideas to get you started:
 
