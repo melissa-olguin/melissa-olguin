@@ -13,7 +13,8 @@ helped edgar with scholarships
 youtube? starts with 3 channels 
 channels blue I want to start ml and data science and everything start up and innovation 
 yellow art philosophy emotions imaginations 
-red psychology mental health 
+red psychology mental health
+review ai making videos 
 
 
 
