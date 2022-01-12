@@ -15,6 +15,9 @@ channels blue I want to start ml and data science and everything start up and in
 yellow art philosophy emotions imaginations 
 red psychology mental health
 review ai making videos 
+I was thinking about looking at ai making websites comparing them
+making a youtube just start but 
+5 hour drive 
 
 
 
