@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
 
-- 🔭 I currently working at BDS Solutions but always looking for better opportunities where I can grow my skills 
+- 🔭 I currently work at Garden City Community College but I am always looking for better opportunities where I can grow my skills 
 - 🌱 I’m currently learning Data Science and Machine Learning 
-- ⚡ Fun fact: I love to draw and play flute / piano
+- ⚡ Fun fact: I love to draw and play flute in the Garden City Municipal Band
 - 👯 Part of Developer Community.
 
 ### Connect with me:
 
-[<img align="left" alt="melissaolguin.ml" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://melissaolguin.netlify.app" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="email" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 <br />
