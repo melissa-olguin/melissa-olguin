@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### I'm ✨ Melissa Olguin ✨ Full Stack Developer  
 
-[![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.ml&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.ml)](https://melissaolguin.ml)
+[![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.netlify.app&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.netlify.app)](https://melissaolguin.netlify.app)
 
 - 🔭 I currently work at Garden City Community College but I am always looking for better opportunities where I can grow my skills 
 - 🌱 I’m currently learning Data Science and Machine Learning 
