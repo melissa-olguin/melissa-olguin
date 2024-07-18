@@ -20,8 +20,19 @@ making a youtube just start but
 invideo
 paper?
 
+Looking at old to do list / goals in 7-18-24 have not done much 
+What I want to work on this year 2024
+- Go to Neurologist Oct 28 2024 - see if he can help or if not find out where I can get help
+  - keep looking for a cure / less pain 
+- Work on eating healthy - 1 fruit or veggie a day - some 5 mins of exercise 
+- work on keeping my streak of healthy sleep going this year I have gotten better at being more consistent 
+  - I have used sun exposure and winding down at bedtime. writing some thoughts down when I can't calm down 
+  - try to make more time to write and to read it takes more effort and helps your brain
+- Try not to overwhelm yourself with big projects Focus on getting something done now - 
+or working on a big project but don't think you need to finish cleaning a room in a day or digitize the clc in a week, 
+      work on things in chunks, what can I do this next hour or what can I do in the time I have
 
-
+      
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -83,6 +94,6 @@ Here are some ideas to get you started:
 ![melissa-olguin's github stats](https://github-readme-stats.vercel.app/api?username=melissa-olguin&theme=gotham&show_icons=true&hide_border=true)
 
 
-[website]: https://melissaolguin.ml/
+[website]: https://melissaolguin.netlify.app
 [linkedin]: https://www.linkedin.com/in/melissa-olguin-50b86819a/
 [email]: mailto:melissa.olguin25@gmail.com?&subject=Just%20saw%20your%20github
