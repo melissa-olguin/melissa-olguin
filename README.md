@@ -31,6 +31,7 @@ What I want to work on this year 2024
 - Try not to overwhelm yourself with big projects Focus on getting something done now - 
 or working on a big project but don't think you need to finish cleaning a room in a day or digitize the clc in a week, 
       work on things in chunks, what can I do this next hour or what can I do in the time I have
+- also not sure where to put this so I don't lose it https://free-for.dev/
 
       
 Here are some ideas to get you started:
@@ -48,6 +49,8 @@ Here are some ideas to get you started:
 ### I'm ✨ Melissa Olguin ✨ Full Stack Developer  
 
 [![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.netlify.app&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.netlify.app)](https://melissaolguin.netlify.app)
+
+[![Website](https://img.shields.io/website?color=1ABC9C&label=[Website]&style=for-the-badge&url=https%3A%2F%2F[Website])](https://[Website])
 
 - 🔭 I currently work at Garden City Community College but I am always looking for better opportunities where I can grow my skills 
 - 🌱 I’m currently learning Data Science and Machine Learning 
@@ -94,6 +97,6 @@ Here are some ideas to get you started:
 ![melissa-olguin's github stats](https://github-readme-stats.vercel.app/api?username=melissa-olguin&theme=gotham&show_icons=true&hide_border=true)
 
 
-[website]: https://melissaolguin.netlify.app
+[website]: melissaolguin.netlify.app
 [linkedin]: https://www.linkedin.com/in/melissa-olguin-50b86819a/
 [email]: mailto:melissa.olguin25@gmail.com?&subject=Just%20saw%20your%20github
