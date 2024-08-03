@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?color=1ABC9C&label=melissaolguin.netlify.app&style=for-the-badge&url=https%3A%2F%2Fmelissaolguin.netlify.app)](https://melissaolguin.netlify.app)
 
-[![Website](https://img.shields.io/website?color=1ABC9C&label=typeWords&style=for-the-badge&url=[Website])](https://[Website])
 
 - 🔭 I currently work at Garden City Community College but I am always looking for better opportunities where I can grow my skills 
 - 🌱 I’m currently learning Data Science and Machine Learning 
