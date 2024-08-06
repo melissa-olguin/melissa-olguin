@@ -3,9 +3,9 @@
 <!--
 **melissa-olguin/melissa-olguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Need to do 
-- Ibotta sign in to get giftcard and not leave money
-- check swagbucks 
-- check commerce bank and pay bill and redeem points
+- Ibotta get 20 dollar giftcard and recipt
+- check Swagbucks 
+- check commerce bank and pay the bill and redeem points
 
 theme change 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -31,9 +31,9 @@ What I want to work on this year 2024
 - Work on eating healthy - 1 fruit or veggie a day - some 5 mins of exercise 
 - work on keeping my streak of healthy sleep going this year I have gotten better at being more consistent 
   - I have used sun exposure and winding down at bedtime. writing some thoughts down when I can't calm down 
-  - try to make more time to write and to read it takes more effort and helps your brain
+  - try to make more time to write and read it takes more effort and helps your brain
 - Try not to overwhelm yourself with big projects Focus on getting something done now - 
-or working on a big project but don't think you need to finish cleaning a room in a day or digitize the clc in a week, 
+or working on a big project but don't think you need to finish cleaning a room in a day or digitize the CLC in a week, 
       work on things in chunks, what can I do this next hour or what can I do in the time I have
 - also not sure where to put this so I don't lose it https://free-for.dev/
 
