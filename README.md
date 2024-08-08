@@ -6,6 +6,7 @@ Need to do
 - Ibotta get 20 dollar giftcard and recipt
 - check Swagbucks 
 - check commerce bank and pay the bill and redeem points
+- buy bitcoin
 
 theme change 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
