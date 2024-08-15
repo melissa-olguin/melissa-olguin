@@ -5,7 +5,7 @@
 Need to do 
 - Ibotta get 20 dollar giftcard and recipt dine
 - check Swagbucks 
-- check commerce bank and pay the bill and redeem points
+- Check Commerce Bank and pay the bill and redeem points
 - buy bitcoin
 - credit freeze 
 - bank check
