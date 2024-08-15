@@ -10,6 +10,13 @@ Need to do
 - credit freeze 
 - bank check
 
+work stuff
+- apologize for being a bit late on Wednesday 
+- change our lunch hour around
+- ask to be able to get Dilber from the airport
+- work on finishing/sending summer weekly reports 
+
+
 theme change 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 will try to keep a streek going in 2022 
