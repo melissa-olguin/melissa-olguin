@@ -15,6 +15,8 @@ work stuff
 - change our lunch hour around
 - ask to be able to get Dilber from the airport
 - work on finishing/sending summer weekly reports 
+cool list 
+https://free-for.dev/#/?id=education-and-career-development
 
 
 theme change 
