@@ -3,11 +3,11 @@
 <!--
 **melissa-olguin/melissa-olguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Need to do 
-- Ibotta get 20 dollar giftcard and recipt dine
+- Ibotta get 20 dollar gift card and receipt dine - done got sams gift card
 - check Swagbucks 
 - Check Commerce Bank and pay the bill and redeem points
 - buy bitcoin
-- credit freeze 
+- credit freeze - done 
 - bank check
 
 work stuff
